@@ -21,10 +21,10 @@ Must have Python 3.6 or higher pre-installed
 5. On the blue window that pops up, click "More info"
 6. Click "Run anyway"
 
-# MacOS Setup Instructions
+# MacOS Setup Instructions (FAULTY ON MAC)
 1. Download the MacOS setup file from the releases page of this GitHub repository
 2. Click on the downloaded setup file
-3. Drag the app icon to the folder icon
+3. Drag the app icon to the Applications folder
 4. Press CMD+Space and search "QR Code Generator"
 5. Click on the app
 6. If the OS refuses to let you run the app, defer to YouTube for instructions on how to bypass this restriction
